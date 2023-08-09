@@ -13,3 +13,4 @@ git log --oneline --decorate --graph --all
 - switch to master (or any other branch )
 - merge the desigred branch with it
 ``` git merge hotfix ```
+- change on my branch
