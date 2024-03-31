@@ -34,3 +34,8 @@ OR
 git config --global --replace-all user.name "Your New Name"
 git config --global --replace-all user.email "Your new email"
 ```
+Adding new remote
+```
+git remote -v # list current remotes
+git remote add target https://<token>@github.com/<nuame>/<reponame>.git
+```
