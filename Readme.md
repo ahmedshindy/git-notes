@@ -39,3 +39,12 @@ Adding new remote
 git remote -v # list current remotes
 git remote add target https://<token>@github.com/<nuame>/<reponame>.git
 ```
+#### Stash
+it is about saving your current changes without doning un-nedded commits
+https://www.youtube.com/watch?v=lH3ZkwbVp5E
+
+```
+git stash # save yr changes
+# do checkout another branch and go back
+# git stash pop
+```
