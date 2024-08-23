@@ -48,3 +48,9 @@ git stash # save yr changes
 # do checkout another branch and go back
 # git stash pop
 ```
+# Conan
+ ```
+conan profile new mynewprofile --detect
+conan profile list
+ conan profile show myprofile1
+```
