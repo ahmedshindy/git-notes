@@ -46,7 +46,8 @@ https://www.youtube.com/watch?v=lH3ZkwbVp5E
 ```
 git stash # save yr changes
 # do checkout another branch and go back
-# git stash pop
+git stash pop
+git stash apply # do the same but also don't remove anything from the stash queue.
 ```
 # Conan
  ```
